@@ -1,0 +1,241 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "test1",
+      "request": "launch",
+      "mainClass": "test1",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EISTULI",
+      "request": "launch",
+      "mainClass": "EISTULI",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EISCHSH",
+      "request": "launch",
+      "mainClass": "EISCHSH",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EIHPROFIT",
+      "request": "launch",
+      "mainClass": "EIHPROFIT",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EIUGRDSA2",
+      "request": "launch",
+      "mainClass": "EIUGRDSA2",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EIUGRDSA",
+      "request": "launch",
+      "mainClass": "EIUGRDSA",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EIGRADU",
+      "request": "launch",
+      "mainClass": "EIGRADU",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EIUSLS",
+      "request": "launch",
+      "mainClass": "EIUSLS",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EIUGRADE",
+      "request": "launch",
+      "mainClass": "EIUGRADE",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EICREDI2",
+      "request": "launch",
+      "mainClass": "EICREDI2",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EICREDIT",
+      "request": "launch",
+      "mainClass": "EICREDIT",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "BeoChat",
+      "request": "launch",
+      "mainClass": "BeoChat",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EIUTRANS",
+      "request": "launch",
+      "mainClass": "EIUTRANS",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EIDUPBOD",
+      "request": "launch",
+      "mainClass": "EIDUPBOD",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "LinkedList",
+      "request": "launch",
+      "mainClass": "LinkedList",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EITASKDIS",
+      "request": "launch",
+      "mainClass": "EITASKDIS",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EIUPREIU",
+      "request": "launch",
+      "mainClass": "EIUPREIU",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EIPAIR",
+      "request": "launch",
+      "mainClass": "EIPAIR",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EI20213Q2",
+      "request": "launch",
+      "mainClass": "EI20213Q2",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "ModularExponentiation",
+      "request": "launch",
+      "mainClass": "ModularExponentiation",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EIPOWMOD2",
+      "request": "launch",
+      "mainClass": "EIPOWMOD2",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "c2",
+      "request": "launch",
+      "mainClass": "c2",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EIUMEDARRAY4",
+      "request": "launch",
+      "mainClass": "EIUMEDARRAY4",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "CountPairs",
+      "request": "launch",
+      "mainClass": "CountPairs",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EIAPPLEBOX",
+      "request": "launch",
+      "mainClass": "EIAPPLEBOX",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "MirrorStringScore",
+      "request": "launch",
+      "mainClass": "MirrorStringScore",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "LongestProductEquivalentSubarray",
+      "request": "launch",
+      "mainClass": "LongestProductEquivalentSubarray",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EIDORM",
+      "request": "launch",
+      "mainClass": "EIDORM",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EIPICNIC",
+      "request": "launch",
+      "mainClass": "EIPICNIC",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "type": "java",
+      "name": "EIUPH010",
+      "request": "launch",
+      "mainClass": "EIUPH010",
+      "projectName": "cse201_cdf8717d"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/LY DAT/Desktop/cse201",
+      "program": "c:/Users/LY DAT/Desktop/cse201/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

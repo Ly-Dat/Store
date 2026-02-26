@@ -1,0 +1,108 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "EIAPPLEBOX",
+      "request": "launch",
+      "mainClass": "EIAPPLEBOX",
+      "projectName": "week100_35f9d566"
+    },
+    {
+      "type": "java",
+      "name": "test2",
+      "request": "launch",
+      "mainClass": "test2",
+      "projectName": "week100_35f9d566"
+    },
+    {
+      "type": "java",
+      "name": "Retirement2",
+      "request": "launch",
+      "mainClass": "Retirement2",
+      "projectName": "week100_35f9d566"
+    },
+    {
+      "type": "java",
+      "name": "EIWORKER",
+      "request": "launch",
+      "mainClass": "EIWORKER",
+      "projectName": "week100_35f9d566"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "week100_35f9d566"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "week100_35f9d566"
+    },
+    {
+      "type": "java",
+      "name": "EIUINV1",
+      "request": "launch",
+      "mainClass": "EIUINV1",
+      "projectName": "week100_35f9d566"
+    },
+    {
+      "type": "java",
+      "name": "EIUSTAT",
+      "request": "launch",
+      "mainClass": "EIUSTAT",
+      "projectName": "week100_35f9d566"
+    },
+    {
+      "type": "java",
+      "name": "EIUBALANCE",
+      "request": "launch",
+      "mainClass": "EIUBALANCE",
+      "projectName": "week100_35f9d566"
+    },
+    {
+      "type": "java",
+      "name": "PASSBOOK",
+      "request": "launch",
+      "mainClass": "PASSBOOK",
+      "projectName": "week100_35f9d566"
+    },
+    {
+      "type": "java",
+      "name": "BANKLOAN2",
+      "request": "launch",
+      "mainClass": "BANKLOAN2",
+      "projectName": "week100_35f9d566"
+    },
+    {
+      "type": "java",
+      "name": "FinancialFreedom",
+      "request": "launch",
+      "mainClass": "FinancialFreedom",
+      "projectName": "week100_35f9d566"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/LY DAT/Desktop/cse102/cse 104/week100",
+      "program": "c:/Users/LY DAT/Desktop/cse102/cse 104/week100/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
