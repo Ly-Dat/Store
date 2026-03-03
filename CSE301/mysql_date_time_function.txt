@@ -1,0 +1,8 @@
+SELECT now();
+SELECT curdate();
+SELECT current_date() as 'Ngay-hien-tai'; -- alias
+SELECT current_time() as 'Gio-hien-tai';
+SELECT current_timestamp() as 'Ngay-gio-hien-tai';
+SELECT year(curdate()) as 'Nam hien tai'; -- tháng: month() | day() | hour() | minute()
+SELECT hour(curtime()) as 'Số giờ hiện tại';
+SELECT datediff(curdate(),'2024-12-1') as 'So-ngay'; -- datediff(ngày sau, ngày trước)
